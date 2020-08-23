@@ -1,6 +1,6 @@
 ---
 title: "Lesley's Data Science Portfolio"
-# excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "A portfolio of Lesley's data science projects."
 permalink: /portfolio/
 header:
   image: "/images/workspace.jpg"
