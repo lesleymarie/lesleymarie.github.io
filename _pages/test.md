@@ -1,12 +1,3 @@
----
-layout: archive
-permalink: /test/
-title: "Test"
-author_profile: true
-header:
-  image: "/images/workspace.jpg"
----
-
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
