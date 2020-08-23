@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 permalink: /test/
 title: "Test"
 author_profile: true
