@@ -7,11 +7,7 @@ header:
   image: "/images/workspace.jpg"
 ---
 
-{% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
-
-{% for tag in group_names %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-{% endfor %}
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include posts-tag.html taxonomy=page.taxonomy type=entries_layout %}
+</div>
