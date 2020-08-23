@@ -1,6 +1,7 @@
 ---
 title: "Lesley's Data Science Portfolio"
 # excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+permalink: /portfolio/
 header:
   image: "/images/workspace.jpg"
 # sidebar:
