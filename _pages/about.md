@@ -11,3 +11,4 @@ machine learning, data analysis and data visualisation.
 
 
 [CV Here](/images/Lesley_Robinson_CV.pdf)
+[CV Here](/downloads/Lesley_Robinson_CV.pdf)
