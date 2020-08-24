@@ -10,4 +10,4 @@ machine learning, data analysis and data visualisation.
 
 # CV
 _____________________________________________________________________________________________
-You can find a pdf version of my CV here: [Lesley's CV]("downloads/Lesley Robinson - CV.pdf")
+You can find a pdf version of my CV here: "downloads/Lesley_Robinson_CV.pdf"
