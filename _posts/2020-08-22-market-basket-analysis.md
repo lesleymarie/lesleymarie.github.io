@@ -8,4 +8,10 @@ header:
 excerpt: "Machine Learning, Data Science"
 ---
 
-# H1 This is a header
+# Market Basket analysis
+
+For this project, I used real data from my previous employer to complete a market basket analysis using the apriori algorithm with R.
+
+* Step 1
+
+The first step was to clean the data using Excel and R  
