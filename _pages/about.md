@@ -1,5 +1,6 @@
 ---
 title: "About"
+name: "Lesley Robinson"
 permalink: /about/
 header:
   image: "/images/workspace.jpg"
