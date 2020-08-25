@@ -1,11 +1,11 @@
 ---
 title: "Improving the Bottom Line: A Market Basket Analysis"
 date: 2020-08-22
-tags: [machine learning, data science]
+tags: [machine learning, association rules mining]
 header:
   overlay_image: "/images/workspace.jpg"
   overlay_filter: 0.5
-excerpt: "Machine Learning, Data Science"
+excerpt: "Machine Learning, association rules mining"
 ---
 
 # Market Basket analysis
